@@ -1,6 +1,5 @@
 package net.engineeringdigest.journalApp.service;
 
-import lombok.extern.slf4j.Slf4j;
 import net.engineeringdigest.journalApp.entity.JournalEntry;
 import net.engineeringdigest.journalApp.entity.User;
 import net.engineeringdigest.journalApp.repository.JournalEntryRepository;
@@ -13,25 +12,25 @@ import java.time.LocalDateTime;
 import java.util.List;
 import java.util.Optional;
 
-@Slf4j
 @Component
 public class UserService {
-    @Autowired
+
+    @Autowired      //we are injecting UserRepository in UserService
     private UserRepository userRepository;
 
-    public void saveEntry(User user){
+    public void saveEntry(User user) {
         userRepository.save(user);
     }
 
-    public List<User> getAll(){
+    public List<User> getAll() {
         return userRepository.findAll();
     }
 
-    public Optional<User> findById(ObjectId id){
+    public Optional<User> findById(ObjectId id) {
         return userRepository.findById(id);
     }
 
-    public void deleteById(ObjectId id){
+    public void deleteById(ObjectId id) {
         userRepository.deleteById(id);
     }
 
