@@ -1,6 +1,6 @@
 package net.engineeringdigest.journalApp.config;
 
-//import net.engineeringdigest.journalApp.service.UserDetailsServiceImpl;
+import net.engineeringdigest.journalApp.service.UserDetailsServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 
 import org.springframework.context.annotation.Bean;
