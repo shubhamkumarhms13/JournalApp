@@ -1,17 +1,28 @@
-<h1 align="center">Hi 👋, I'm Shubham</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h2 align="center">📝 Journal Management Application (Spring Boot + MongoDB)</h2>
 
-- 🔭 I’m currently working on [Journal Application](https://github.com/shubhamkumarhms13/JournalApp)
+<ul>
+  <li>
+    <strong>🔐 Secure Journal Management System:</strong>
+    A Spring Boot-based backend application where users can securely create, view, update, and delete personal journal entries.
+  </li>
+  <li>
+    <strong>🛡️ Spring Security Integration:</strong>
+    Fully secured with Spring Security, including authentication and authorization to ensure only authorized users can access their data.
+  </li>
+  <li>
+    <strong>📦 RESTful API with Proper HTTP Status Codes:</strong>
+    Well-structured REST APIs that follow standard conventions and return meaningful HTTP status codes for all operations.
+  </li>
+  <li>
+    <strong>📁 MongoDB for Data Storage:</strong>
+    Uses MongoDB as a NoSQL database for efficient and scalable journal data management.
+  </li>
+  <li>
+    <strong>🧩 Backend-Only Project:</strong>
+    Designed as a backend-only service, ready to be integrated with any frontend application or mobile client via APIs.
+  </li>
+</ul>
 
-- 🌱 I’m currently learning **how to build scalable application with millions of user.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/shubhamkumarhms13/](https://github.com/shubhamkumarhms13/)
-
-- 💬 Ask me about **Java, SpringBoot, SQL, AWS**
-
-- 📫 How to reach me **shubhamkumarhms13@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/shubhamkumarhms13/](https://www.linkedin.com/in/shubhamkumarhms13/)
 
 <p align="left">
 </p>
