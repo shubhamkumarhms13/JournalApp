@@ -19,7 +19,7 @@
   </li>
   <li>
     <strong>🧩 Backend-Only Project:</strong>
-    Designed as a backend-only service, ready to be integrated with any frontend application or mobile client via APIs.
+    Designed as a backend-only service, ready to be integrated with any front-end application or mobile client via APIs.
   </li>
 </ul>
 
