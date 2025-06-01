@@ -1,5 +1,6 @@
 <h2 align="center">📝 Journal Management Application (Spring Boot + MongoDB)</h2>
 
+
 <ul>
   <li>
     <strong>🔐 Secure Journal Management System:</strong>
